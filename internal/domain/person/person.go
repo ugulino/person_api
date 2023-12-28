@@ -1,8 +1,8 @@
 package person
 
 type Person struct {
-	Name         string
-	Phone_number string
-	Email        string
-	Document     string
+	Name     string
+	Phone    string
+	Email    string
+	Document string
 }
